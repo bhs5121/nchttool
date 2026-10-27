@@ -1,0 +1,12 @@
+{
+  "name": "nds-cheat-crc-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-local NDS cheat game identity retargeting for R4 DAT and XML files",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/core.test.cjs",
+    "preview": "node scripts/serve.cjs"
+  },
+  "engines": { "node": ">=18" }
+}

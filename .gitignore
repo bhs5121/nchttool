@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+verification/
+*.nds
+*.sav
+*.ml[0-9]*
+*.dat
+*.xml
+
